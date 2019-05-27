@@ -32,4 +32,4 @@ This is a simple scraper created in Python using framework scrapy. It collects d
 
 3.) Open and run main.py
 
-4.) Output will be stored in data folder.
+4.) Output will be stored in `data/flipkartSpider` folder.
