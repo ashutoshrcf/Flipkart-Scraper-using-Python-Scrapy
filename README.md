@@ -30,6 +30,6 @@ This is a simple scraper created in Python using framework scrapy. It collects d
         main.py
 ```
 
-3.) Open and run main.py
+3.) Open and run `main.py` file.
 
 4.) Output will be stored in `data/flipkartSpider` folder.
