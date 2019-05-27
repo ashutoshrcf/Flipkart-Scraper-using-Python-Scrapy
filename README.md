@@ -15,9 +15,8 @@ This is a simple scraper created in Python using framework scrapy. It collects d
 1.) Fork this project.
 
 2.) Your project directory should look something like this.
-
 ```
-Flipkart_Scraper/
+ Flipkart_Scraper/
     Flipkart_Scraper/
         scrapy.cfg            
         spiders/
@@ -27,4 +26,10 @@ Flipkart_Scraper/
         items.py   
         middlewares.py    
         pipelines.py      
-        settings.py      
+        settings.py 
+        main.py
+```
+
+3.) Open and run main.py
+
+4.) Output will be stored in data folder.
