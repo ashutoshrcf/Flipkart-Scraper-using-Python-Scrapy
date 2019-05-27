@@ -12,7 +12,7 @@ This is a simple scraper created in Python using framework scrapy. It collects d
 
 ### Installing
 
-1.) Fork this project.
+1.) Download or clone this project.
 
 2.) Your project directory should look something like this.
 ```
