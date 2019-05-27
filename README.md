@@ -7,11 +7,13 @@ This is a simple scraper created in Python using framework scrapy. It collects d
 ### Prerequisites
 
 1.) Python3
+
 2.) Scrapy 1.6
 
 ### Installing
 
 1.) Fork this project.
+
 2.) Your project directory should look something like this.
 
 ```
